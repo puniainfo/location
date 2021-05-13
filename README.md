@@ -2,7 +2,7 @@
 Indian location API
 
 ### State list
-####@  District List
-####  Tehsil List
-####  Village and City List
+###  District List
+###  Tehsil List
+###  Village and City List
 
