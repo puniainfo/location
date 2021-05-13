@@ -1,7 +1,7 @@
 # Indian Location API
 Indian location API
 
-  API Url http://www.google.com
+  API Url Done after complete 
 
 ### State list
 ###  District List
